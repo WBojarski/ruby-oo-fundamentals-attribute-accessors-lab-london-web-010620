@@ -32,5 +32,8 @@ class Cat
 end
 
 maru = Cat.new("Maru")
+<<<<<<< HEAD
 maru.meow
+=======
+>>>>>>> abf60d7b5bfb192f1631f4fcffd19375dc07ace0
 
